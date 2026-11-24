@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 2,
+    "width": 507,
+    "height": 677,
+    "isRotated": true,
+    "originalWidth": 513,
+    "originalHeight": 677
+  },
+  "imagePath": "image-targets/V323_luminance.jpg",
+  "metadata": null,
+  "name": "V323",
+  "resources": {
+    "originalImage": "V323_original.jpg",
+    "croppedImage": "V323_cropped.jpg",
+    "thumbnailImage": "V323_thumbnail.jpg",
+    "luminanceImage": "V323_luminance.jpg"
+  },
+  "created": 1790104214450,
+  "updated": 1790104214450
+}

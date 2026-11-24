@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 170,
+    "left": 0,
+    "width": 768,
+    "height": 1024,
+    "isRotated": true,
+    "originalWidth": 768,
+    "originalHeight": 1365
+  },
+  "imagePath": "image-targets/V315_luminance.jpg",
+  "metadata": null,
+  "name": "V315",
+  "resources": {
+    "originalImage": "V315_original.jpg",
+    "croppedImage": "V315_cropped.jpg",
+    "thumbnailImage": "V315_thumbnail.jpg",
+    "luminanceImage": "V315_luminance.jpg"
+  },
+  "created": 1794780143823,
+  "updated": 1794780143823
+}

@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 183,
+    "left": 0,
+    "width": 768,
+    "height": 1024,
+    "isRotated": true,
+    "originalWidth": 768,
+    "originalHeight": 1390
+  },
+  "imagePath": "image-targets/V332_luminance.jpg",
+  "metadata": null,
+  "name": "V332",
+  "resources": {
+    "originalImage": "V332_original.jpg",
+    "croppedImage": "V332_cropped.jpg",
+    "thumbnailImage": "V332_thumbnail.jpg",
+    "luminanceImage": "V332_luminance.jpg"
+  },
+  "created": 1794781097611,
+  "updated": 1794781097611
+}

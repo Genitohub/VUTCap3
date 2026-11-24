@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 894,
+    "height": 1193,
+    "isRotated": true,
+    "originalWidth": 896,
+    "originalHeight": 1193
+  },
+  "imagePath": "image-targets/V321_luminance.jpg",
+  "metadata": null,
+  "name": "V321",
+  "resources": {
+    "originalImage": "V321_original.jpg",
+    "croppedImage": "V321_cropped.jpg",
+    "thumbnailImage": "V321_thumbnail.jpg",
+    "luminanceImage": "V321_luminance.jpg"
+  },
+  "created": 1794780476653,
+  "updated": 1794780476653
+}

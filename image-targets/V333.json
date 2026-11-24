@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 96,
+    "left": 0,
+    "width": 490,
+    "height": 653,
+    "isRotated": true,
+    "originalWidth": 490,
+    "originalHeight": 846
+  },
+  "imagePath": "image-targets/V333_luminance.jpg",
+  "metadata": null,
+  "name": "V333",
+  "resources": {
+    "originalImage": "V333_original.jpg",
+    "croppedImage": "V333_cropped.jpg",
+    "thumbnailImage": "V333_thumbnail.jpg",
+    "luminanceImage": "V333_luminance.jpg"
+  },
+  "created": 1790108498566,
+  "updated": 1790108498566
+}
